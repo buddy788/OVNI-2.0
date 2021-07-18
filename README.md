@@ -17,7 +17,7 @@ Herramienta que sirve para sacar datos a una dirección IP
 * `pkg install wget`
 
 # Instalación
-* `git clone https://github.com/Monkey-hk4/OVNI`
+* `git clone https://github.com/buddy788/OVNI-2.0I`
 * `cd OVNI`
 * `chmod +x OVNI`
 * `bash ovni2.sh`
